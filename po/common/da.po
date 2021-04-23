@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: da\n"
 "Project-Id-Version: openfoodfacts\n"
-"PO-Revision-Date: 2021-04-17 08:09\n"
+"PO-Revision-Date: 2021-04-23 12:20\n"
 "Language-Team: Danish\n"
 "Last-Translator: \n"
 "POT-Creation-Date: \n"
@@ -4664,7 +4664,7 @@ msgstr "Miljø"
 
 msgctxt "attribute_ecoscore_name"
 msgid "Eco-Score"
-msgstr "Eco-Score"
+msgstr "Øko-Score"
 
 msgctxt "attribute_ecoscore_setting_name"
 msgid "Low environmental impact (Eco-Score)"
@@ -4673,7 +4673,7 @@ msgstr "Lav miljøpåvirkning (Eco-Score)"
 # keep %s, it will be replaced by the letter A, B, C, D or E
 msgctxt "attribute_ecoscore_grade_title"
 msgid "Eco-Score %s"
-msgstr "Eco-Score %s"
+msgstr "Øko-Score %s"
 
 msgctxt "attribute_ecoscore_a_description_short"
 msgid "Very low environmental impact"
@@ -4887,11 +4887,11 @@ msgstr "Manglende ernæringsfakta"
 
 msgctxt "ecoscore_p"
 msgid "Eco-Score"
-msgstr "Eco-Score"
+msgstr "Øko-Score"
 
 msgctxt "ecoscore_s"
 msgid "Eco-Score"
-msgstr "Eco-Score"
+msgstr "Øko-Score"
 
 msgctxt "packaging_parts"
 msgid "Packaging parts"
@@ -5495,7 +5495,7 @@ msgstr "kg CO2 ækv./ kg produkt"
 # do not translate the link
 msgctxt "ecoscore_platform_prompt_ecoscore_modal"
 msgid "If you are the manufacturer of this product, you can send us the information with our <a href=\"https://world.pro.openfoodfacts.org\">free platform for producers</a>."
-msgstr "Er du producent af dette produkt, kan du indsende oplysningerne via vores <a href=\"https://dk.pro.openfoodfacts.org\">gratis producentplatform</a>."
+msgstr "Er du producent af dette produkt, kan du indsende oplysningerne via vores <a href=\"https://world.pro.openfoodfacts.org\">gratis producentplatform</a>."
 
 # do not translate Eco-Score and the link
 msgctxt "ecoscore_description"
